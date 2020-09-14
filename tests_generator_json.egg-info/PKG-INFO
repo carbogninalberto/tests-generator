@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
-Name: tests-generator-carbogninalberto
-Version: 0.0.1
+Name: tests-generator-json
+Version: 0.0.9
 Summary: This package helps to speedup test writing
 Home-page: https://github.com/carbogninalberto/tests-generator
 Author: Alberto Carbognin

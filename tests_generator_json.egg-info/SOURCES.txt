@@ -1,0 +1,8 @@
+README.md
+setup.py
+tests_generator_json/__init__.py
+tests_generator_json/main.py
+tests_generator_json.egg-info/PKG-INFO
+tests_generator_json.egg-info/SOURCES.txt
+tests_generator_json.egg-info/dependency_links.txt
+tests_generator_json.egg-info/top_level.txt

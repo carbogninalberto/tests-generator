@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="tests_generator", # Replace with your own username
-    version="0.0.3",
+    name="tests_generator_json", # Replace with your own username
+    version="0.0.9",
     author="Alberto Carbognin",
     author_email="carbogninalberto@gmail.com",
     description="This package helps to speedup test writing",
