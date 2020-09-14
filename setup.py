@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="tests_generator_json", # Replace with your own username
-    version="0.0.9",
+    version="0.0.1",
     author="Alberto Carbognin",
     author_email="carbogninalberto@gmail.com",
     description="This package helps to speedup test writing",
