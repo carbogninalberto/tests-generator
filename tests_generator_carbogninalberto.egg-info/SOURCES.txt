@@ -1,0 +1,7 @@
+README.md
+setup.py
+tests-generator/__init__.py
+tests_generator_carbogninalberto.egg-info/PKG-INFO
+tests_generator_carbogninalberto.egg-info/SOURCES.txt
+tests_generator_carbogninalberto.egg-info/dependency_links.txt
+tests_generator_carbogninalberto.egg-info/top_level.txt
